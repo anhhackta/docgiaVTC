@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\",
+  "WorkspaceRootPath": "E:\\docgiaVTC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|solutionrelative:docgiaVTC\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|E:\\docgiaVTC\\docgiaVTC\\DocGia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|solutionrelative:docgiaVTC\\DocGia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|E:\\docgiaVTC\\docgiaVTC\\DocGia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|solutionrelative:docgiaVTC\\DocGia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|E:\\docgiaVTC\\docgiaVTC\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34F57522-FFB3-44D3-9295-16F578AC93AA}|docgiaVTC\\docgiaVTC.vcxproj|solutionrelative:docgiaVTC\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DocGia.cpp",
-              "DocumentMoniker": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.cpp",
+              "DocumentMoniker": "E:\\docgiaVTC\\docgiaVTC\\DocGia.cpp",
               "RelativeDocumentMoniker": "docgiaVTC\\DocGia.cpp",
-              "ToolTip": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.cpp",
+              "ToolTip": "E:\\docgiaVTC\\docgiaVTC\\DocGia.cpp",
               "RelativeToolTip": "docgiaVTC\\DocGia.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T13:35:52.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\Main.cpp",
+              "DocumentMoniker": "E:\\docgiaVTC\\docgiaVTC\\Main.cpp",
               "RelativeDocumentMoniker": "docgiaVTC\\Main.cpp",
-              "ToolTip": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\Main.cpp",
+              "ToolTip": "E:\\docgiaVTC\\docgiaVTC\\Main.cpp",
               "RelativeToolTip": "docgiaVTC\\Main.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAF0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T13:36:11.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DocGia.h",
-              "DocumentMoniker": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.h",
+              "DocumentMoniker": "E:\\docgiaVTC\\docgiaVTC\\DocGia.h",
               "RelativeDocumentMoniker": "docgiaVTC\\DocGia.h",
-              "ToolTip": "C:\\Users\\DN_Hocvien\\OneDrive\\M\u00E1y t\u00EDnh\\QUANLYNHANSU\\docgiaVTC\\docgiaVTC\\DocGia.h",
+              "ToolTip": "E:\\docgiaVTC\\docgiaVTC\\DocGia.h",
               "RelativeToolTip": "docgiaVTC\\DocGia.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-08T13:35:18.093Z",
               "EditorCaption": ""

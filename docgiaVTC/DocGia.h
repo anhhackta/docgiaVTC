@@ -4,30 +4,30 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
+using namespace std;
 class DocGia {
 protected:
-    std::string hoten;
-    std::string ngaylapthe;
+    string hoten;
+    string ngaylapthe;
     int sothanghl;
 
 public:
-    DocGia(const std::string& hoten, const std::string& ngaylapthe, int sothanghl);
+    DocGia(const string& hoten, const string& ngaylapthe, int sothanghl);
     virtual ~DocGia() = default;
 
     virtual void nhap();
     virtual void xuat() const;
     virtual int tinhTien() const = 0;
 
-    std::string getHoten() const;
+    string getHoten() const;
 };
 
 class TreEm : public DocGia {
 private:
-    std::string ngbaoho;
+    string ngbaoho;
 
 public:
-    TreEm(const std::string& hoten, const std::string& ngaylapthe, int sothanghl, const std::string& ngbaoho);
+    TreEm(const string& hoten, const string& ngaylapthe, int sothanghl, const string& ngbaoho);
     void nhap() override;
     void xuat() const override;
     int tinhTien() const override;
@@ -35,10 +35,10 @@ public:
 
 class NguoiLon : public DocGia {
 private:
-    std::string cmnd;
+    string cmnd;
 
 public:
-    NguoiLon(const std::string& hoten, const std::string& ngaylapthe, int sothanghl, const std::string& cmnd);
+    NguoiLon(const string& hoten, const string& ngaylapthe, int sothanghl, const string& cmnd);
     void nhap() override;
     void xuat() const override;
     int tinhTien() const override;
